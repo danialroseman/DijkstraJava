@@ -1,3 +1,5 @@
+A simple Java program uses dijkstra algorithm to calculate shortest distance.
+
 # DijkstraJava
 
 [Case Study]
